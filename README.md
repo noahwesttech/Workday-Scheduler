@@ -1,6 +1,6 @@
 # Workday-Scheduler
 
-URL: https://noahwesttech.github.io/Workday-Scheduler/
+URL: https://noahwesttech.github.io/Workday-Scheduler/ \
 Github URL: https://github.com/noahwesttech/Workday-Scheduler
 
 ## User Story: 
